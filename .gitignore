@@ -1,11 +1,3 @@
-# Ignore similarity search script
-assignment/similarity_search.py
-
-# Ignore documentation folders
-assignment/tài liệu/
-assignment/tai_lieu/
-assignment/docs/
-assignment/documentation/
 
 # Python cache files
 __pycache__/
